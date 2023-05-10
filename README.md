@@ -6,8 +6,7 @@ Customized tracking on videos and images.
   
 **Results**  
  - Customized tracking of a video.
- ![alt-text](https://github.com/muhammedenesbalci/YOLOv8-Object-Tracking/blob/main/datas/test_video_result_customized_gif.gif?raw=true)  
-
+ ![alt-text](https://github.com/muhammedenesbalci/YOLOv8-Object-Tracking/blob/main/datas/test_video_result_customized_gif.gif?raw=true)
  ![alt-text](https://github.com/muhammedenesbalci/YOLOv8-Object-Tracking/blob/main/datas/test_video_result_line_customized_gif.gif?raw=true)  
 
 
